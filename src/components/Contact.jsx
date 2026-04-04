@@ -6,20 +6,20 @@ const Contact = () => {
   const contactLinks = [
     {
       label: 'Email',
-      value: 'vivek@example.com',
-      href: 'mailto:vivek@example.com',
+      value: 'vivekmishra0911@gmail.com',
+      href: 'mailto:vivekmishra0911@gmail.com',
       icon: Mail,
     },
     {
       label: 'LinkedIn',
       value: 'linkedin.com/in/vivekmishra',
-      href: 'https://linkedin.com/in/vivekmishra',
+      href: 'https://linkedin.com/in/vivek-mishra09',
       icon: Linkedin,
     },
     {
       label: 'GitHub',
       value: 'github.com/vivekmishra',
-      href: 'https://github.com/vivekmishra',
+      href: 'https://github.com/vivekmishra-09',
       icon: Github,
     },
   ];

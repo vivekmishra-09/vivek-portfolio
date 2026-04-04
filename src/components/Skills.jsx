@@ -14,15 +14,15 @@ const Skills = () => {
     {
       title: 'Frontend',
       skills: [
-        { name: 'React', icon: Code },
-        { name: 'Three.js', icon: Layers },
-        { name: 'TypeScript', icon: Terminal },
+        { name: 'JavaScript', icon: Code },
+        { name: 'React', icon: Layers },
+        { name: 'Three.js', icon: Terminal },
       ],
     },
     {
       title: 'Backend',
       skills: [
-        { name: 'Python', icon: Terminal },
+        { name: 'Node js', icon: Terminal },
         { name: 'FastAPI', icon: Zap },
         { name: 'MongoDB', icon: Database },
       ],
