@@ -12,13 +12,13 @@ const Contact = () => {
     },
     {
       label: 'LinkedIn',
-      value: 'linkedin.com/in/vivekmishra',
+      value: 'linkedin.com/in/vivek-mishra09',
       href: 'https://linkedin.com/in/vivek-mishra09',
       icon: Linkedin,
     },
     {
       label: 'GitHub',
-      value: 'github.com/vivekmishra',
+      value: 'github.com/vivekmishra-09',
       href: 'https://github.com/vivekmishra-09',
       icon: Github,
     },
