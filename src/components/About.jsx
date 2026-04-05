@@ -23,8 +23,8 @@ const About = () => {
           </p>
 
           <p>
-            From voice-controlled AI assistants to intelligent ranking systems, I create tools that
-            solve actual problems with cutting-edge technology like{' '}
+            From voice-controlled AI assistants to advanced AI systems,I create tools that solve actual
+            problems using technologies like{' '}
             <span className="text-white font-medium">Phi-3, Three.js, and modern Python frameworks</span>.
           </p>
 
